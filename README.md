@@ -1,2 +1,2 @@
-# algorithm.quiz
-collecto to algorithm quizzes &amp; solutions
+# training.algorithm
+collect to algorithm quizzes &amp; solutions
